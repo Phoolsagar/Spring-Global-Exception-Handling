@@ -7,7 +7,8 @@ Each module demonstrates different approaches to handling exceptions in a clean,
 ---
 
 ## 📂 Project Structure
-<img width="659" height="346" alt="image" src="https://github.com/user-attachments/assets/5ca26365-5ab6-4e25-8e83-cccc5ea404f7" />
+<img width="414" height="338" alt="image" src="https://github.com/user-attachments/assets/f9920830-12e4-44a5-876b-25ea3be77d39" />
+
 
 
 ---
