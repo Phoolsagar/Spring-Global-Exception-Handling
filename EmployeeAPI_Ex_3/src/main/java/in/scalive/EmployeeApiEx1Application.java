@@ -1,0 +1,13 @@
+package in.scalive;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EmployeeApiEx1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EmployeeApiEx1Application.class, args);
+	}
+
+}
